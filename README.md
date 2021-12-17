@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeevan-Kumar
 - 👀 I’m interested in MERN Stack Development
-- 🌱 I’m currently working on MERN Stack Developer
+- 🌱 I’m currently working as MERN Stack Developer
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me, You can Simple Click 👉 https://jeevan-kumar-raj.github.io/
 
